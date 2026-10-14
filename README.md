@@ -2,9 +2,9 @@
 
 # Polygon Rain - Public Builds
 
-**Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Pick one of four mechs, drop in by pod, stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
+**Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.25.0**
+Latest version: **v0.26.0**
 
 ## Download
 
@@ -17,15 +17,24 @@ Grab the latest build from the **[Releases](https://github.com/Cluelessmate/Poly
 
 If Windows SmartScreen warns about an unknown publisher, click **More info > Run anyway**. Each release lists SHA-256 checksums for both zips.
 
+## Co-op (1-4 pilots)
+
+Single player first, with optional online co-op. On the main menu pick **CO-OP**: one pilot presses *HOST GAME*
+(default UDP port **24565**) and shares their IP address; the others enter it and press *JOIN*. Over the internet
+the host may need to forward that port on their router; on the same network use the host's local IP. Everyone needs
+the same version. Hostiles and guardians scale with the squad, loot stays personal, and downed pilots are revived
+by holding **[Interact]** beside them.
+
 ## Screenshots
 
 | | |
 |---|---|
-| ![Title screen](media/screenshots/v0.25.0/01_title.jpg)<br>*Title screen* | ![Main menu](media/screenshots/v0.25.0/02_main_menu.jpg)<br>*Main menu* |
-| ![Pilot select](media/screenshots/v0.25.0/03_pilot_select.jpg)<br>*Pilot select* | ![Drop pod landing (new in v0.25.0)](media/screenshots/v0.25.0/04_drop_pod.jpg)<br>*Drop pod landing (new in v0.25.0)* |
-| ![Vanguard - Ruined City](media/screenshots/v0.25.0/05_vanguard_ruined_city.jpg)<br>*Vanguard - Ruined City* | ![Lancer - Neon District](media/screenshots/v0.25.0/06_lancer_neon_district.jpg)<br>*Lancer - Neon District* |
-| ![Bulwark - Rust Foundry](media/screenshots/v0.25.0/07_bulwark_rust_foundry.jpg)<br>*Bulwark - Rust Foundry* | ![Tumbler - Frozen Outpost](media/screenshots/v0.25.0/08_tumbler_frozen_outpost.jpg)<br>*Tumbler - Frozen Outpost* |
-| ![Strike Drone painting its target](media/screenshots/v0.25.0/09_strike_drone_lock.jpg)<br>*Strike Drone painting its target* | ![The Leviathan main cannon](media/screenshots/v0.25.0/10_leviathan_cannon.jpg)<br>*The Leviathan main cannon* |
+| ![Title screen](media/screenshots/v0.26.0/01_title.jpg)<br>*Title screen* | ![Main menu (new CO-OP entry)](media/screenshots/v0.26.0/02_main_menu.jpg)<br>*Main menu (new CO-OP entry)* |
+| ![Co-op lobby: a full squad of four](media/screenshots/v0.26.0/03_coop_lobby.jpg)<br>*Co-op lobby: a full squad of four* | ![Co-op: the squad in a fight](media/screenshots/v0.26.0/04_coop_squad_fight.jpg)<br>*Co-op: the squad in a fight* |
+| ![Co-op: hold Interact to revive a downed teammate](media/screenshots/v0.26.0/05_coop_revive.jpg)<br>*Co-op: hold Interact to revive a downed teammate* | ![Co-op: downed, waiting for a revive](media/screenshots/v0.26.0/06_coop_downed.jpg)<br>*Co-op: downed, waiting for a revive* |
+| ![Co-op: a guardian fight](media/screenshots/v0.26.0/07_coop_guardian.jpg)<br>*Co-op: a guardian fight* | ![Vanguard - Ruined City](media/screenshots/v0.26.0/08_vanguard_ruined_city.jpg)<br>*Vanguard - Ruined City* |
+| ![Lancer - Neon District](media/screenshots/v0.26.0/09_lancer_neon_district.jpg)<br>*Lancer - Neon District* | ![Bulwark - Rust Foundry](media/screenshots/v0.26.0/10_bulwark_rust_foundry.jpg)<br>*Bulwark - Rust Foundry* |
+| ![Tumbler - Frozen Outpost](media/screenshots/v0.26.0/11_tumbler_frozen_outpost.jpg)<br>*Tumbler - Frozen Outpost* | ![The Leviathan main cannon](media/screenshots/v0.26.0/12_leviathan_cannon.jpg)<br>*The Leviathan main cannon* |
 
 ## Controls
 
