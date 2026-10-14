@@ -4,7 +4,7 @@
 
 **Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.26.0**
+Latest version: **v0.27.0**
 
 ## Download
 
@@ -20,8 +20,10 @@ If Windows SmartScreen warns about an unknown publisher, click **More info > Run
 ## Co-op (1-4 pilots)
 
 Single player first, with optional online co-op. On the main menu pick **CO-OP**: one pilot presses *HOST GAME*
-(default UDP port **24565**) and shares their IP address; the others enter it and press *JOIN*. Over the internet
-the host may need to forward that port on their router; on the same network use the host's local IP. Everyone needs
+(default UDP port **24565**) and gets a **join code** (like `61FC-R310`) - press *COPY* and send it to your squad;
+they paste it and press *JOIN*. No IP addresses to share. Players on the same network can use the faster
+**LAN code**. Over the internet the host may need to forward UDP 24565 on their router. Set your **pilot name** on
+the CO-OP page or in Settings; your squad sees it. Everyone needs
 the same version. Hostiles and guardians scale with the squad, loot stays personal, and downed pilots are revived
 by holding **[Interact]** beside them.
 
@@ -29,12 +31,11 @@ by holding **[Interact]** beside them.
 
 | | |
 |---|---|
-| ![Title screen](media/screenshots/v0.26.0/01_title.jpg)<br>*Title screen* | ![Main menu (new CO-OP entry)](media/screenshots/v0.26.0/02_main_menu.jpg)<br>*Main menu (new CO-OP entry)* |
-| ![Co-op lobby: a full squad of four](media/screenshots/v0.26.0/03_coop_lobby.jpg)<br>*Co-op lobby: a full squad of four* | ![Co-op: the squad in a fight](media/screenshots/v0.26.0/04_coop_squad_fight.jpg)<br>*Co-op: the squad in a fight* |
-| ![Co-op: hold Interact to revive a downed teammate](media/screenshots/v0.26.0/05_coop_revive.jpg)<br>*Co-op: hold Interact to revive a downed teammate* | ![Co-op: downed, waiting for a revive](media/screenshots/v0.26.0/06_coop_downed.jpg)<br>*Co-op: downed, waiting for a revive* |
-| ![Co-op: a guardian fight](media/screenshots/v0.26.0/07_coop_guardian.jpg)<br>*Co-op: a guardian fight* | ![Vanguard - Ruined City](media/screenshots/v0.26.0/08_vanguard_ruined_city.jpg)<br>*Vanguard - Ruined City* |
-| ![Lancer - Neon District](media/screenshots/v0.26.0/09_lancer_neon_district.jpg)<br>*Lancer - Neon District* | ![Bulwark - Rust Foundry](media/screenshots/v0.26.0/10_bulwark_rust_foundry.jpg)<br>*Bulwark - Rust Foundry* |
-| ![Tumbler - Frozen Outpost](media/screenshots/v0.26.0/11_tumbler_frozen_outpost.jpg)<br>*Tumbler - Frozen Outpost* | ![The Leviathan main cannon](media/screenshots/v0.26.0/12_leviathan_cannon.jpg)<br>*The Leviathan main cannon* |
+| ![Title screen](media/screenshots/v0.27.0/01_title.jpg)<br>*Title screen* | ![Main menu: your pilot name on the pilot record](media/screenshots/v0.27.0/02_main_menu.jpg)<br>*Main menu: your pilot name on the pilot record* |
+| ![Hosting: a join code to copy and share - no IP needed](media/screenshots/v0.27.0/03_coop_join_code.jpg)<br>*Hosting: a join code to copy and share - no IP needed* | ![Joined with the code: the squad by name](media/screenshots/v0.27.0/04_coop_joined_by_code.jpg)<br>*Joined with the code: the squad by name* |
+| ![Settings: set your pilot name](media/screenshots/v0.27.0/05_settings_pilot_name.jpg)<br>*Settings: set your pilot name* | ![Co-op: teammates tagged with their pilot names](media/screenshots/v0.27.0/06_coop_named_squad.jpg)<br>*Co-op: teammates tagged with their pilot names* |
+| ![Co-op: reviving a teammate during a guardian fight](media/screenshots/v0.27.0/07_coop_hydra_revive.jpg)<br>*Co-op: reviving a teammate during a guardian fight* | ![Co-op: downed, waiting for a revive](media/screenshots/v0.27.0/08_coop_downed.jpg)<br>*Co-op: downed, waiting for a revive* |
+| ![Co-op: the squad in a fight](media/screenshots/v0.27.0/09_coop_squad_fight.jpg)<br>*Co-op: the squad in a fight* | ![Pilot select](media/screenshots/v0.27.0/10_pilot_select.jpg)<br>*Pilot select* |
 
 ## Controls
 
