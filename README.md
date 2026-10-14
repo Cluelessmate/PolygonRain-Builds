@@ -4,7 +4,7 @@
 
 **Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.28.0**
+Latest version: **v0.29.0**
 
 ## Download
 
@@ -27,17 +27,20 @@ the CO-OP page or in Settings; your squad sees it. Everyone needs
 the same version. Hostiles and guardians scale with the squad, loot stays personal, and downed pilots are revived
 by holding **[Interact]** beside them.
 
+**Steam:** with Steam running, the host can press *INVITE STEAM FRIENDS*; friends who accept join automatically.
+Achievements unlock on Steam as you earn them.
+
 ## Screenshots
 
 | | |
 |---|---|
-| ![Title screen](media/screenshots/v0.28.0/01_title.jpg)<br>*Title screen* | ![Main menu](media/screenshots/v0.28.0/02_main_menu.jpg)<br>*Main menu* |
-| ![Drop pod touchdown: fireball and dust](media/screenshots/v0.28.0/03_drop_pod_landing.jpg)<br>*Drop pod touchdown: fireball and dust* | ![The pod opens around the mech](media/screenshots/v0.28.0/04_drop_pod_open.jpg)<br>*The pod opens around the mech* |
-| ![New Tumbler model, full-auto blasters](media/screenshots/v0.28.0/05_tumbler_full_auto.jpg)<br>*New Tumbler model, full-auto blasters* | ![Tumbler rolling sideways](media/screenshots/v0.28.0/06_tumbler_roll.jpg)<br>*Tumbler rolling sideways* |
-| ![The up-armoured Bulwark](media/screenshots/v0.28.0/07_bulwark_up_armoured.jpg)<br>*The up-armoured Bulwark* | ![Lancer in the Neon District](media/screenshots/v0.28.0/08_lancer_neon_district.jpg)<br>*Lancer in the Neon District* |
-| ![Chests are now industrial cargo cases](media/screenshots/v0.28.0/09_cargo_case_chests.jpg)<br>*Chests are now industrial cargo cases* | ![Items drop as 3D models](media/screenshots/v0.28.0/10_items_3d_drops.jpg)<br>*Items drop as 3D models* |
-| ![The Gamble Terminal, an old CRT computer](media/screenshots/v0.28.0/11_gamble_terminal.jpg)<br>*The Gamble Terminal, an old CRT computer* | ![The Duneworm breaching out of the sand](media/screenshots/v0.28.0/12_duneworm_breach.jpg)<br>*The Duneworm breaching out of the sand* |
-| ![Item icons rendered from the 3D models](media/screenshots/v0.28.0/13_item_icons.jpg)<br>*Item icons rendered from the 3D models* | ![Collection: items as turning 3D models](media/screenshots/v0.28.0/14_collection_3d_item.jpg)<br>*Collection: items as turning 3D models* |
+| ![Title screen](media/screenshots/v0.29.0/01_title.jpg)<br>*Title screen* | ![Main menu with the v0.29 notes](media/screenshots/v0.29.0/02_main_menu.jpg)<br>*Main menu with the v0.29 notes* |
+| ![New shotgun Bulwark in olive drab](media/screenshots/v0.29.0/03_bulwark_olive_shotgun.jpg)<br>*New shotgun Bulwark in olive drab* | ![Bulwark Slug Round staggering a pack](media/screenshots/v0.29.0/04_bulwark_slug_round.jpg)<br>*Bulwark Slug Round staggering a pack* |
+| ![Lancer Arc Mine discharging chain lightning](media/screenshots/v0.29.0/05_lancer_arc_mine.jpg)<br>*Lancer Arc Mine discharging chain lightning* | ![Lancer Tag Bolt marking a target](media/screenshots/v0.29.0/06_lancer_tag_bolt.jpg)<br>*Lancer Tag Bolt marking a target* |
+| ![Tumbler Ricochet Orb bouncing between enemies](media/screenshots/v0.29.0/07_tumbler_ricochet_orb.jpg)<br>*Tumbler Ricochet Orb bouncing between enemies* | ![The drop pod top is blown off on impact](media/screenshots/v0.29.0/08_drop_pod_top_blown_off.jpg)<br>*The drop pod top is blown off on impact* |
+| ![Pixel-art item icons in the inventory](media/screenshots/v0.29.0/09_pixel_art_item_icons.jpg)<br>*Pixel-art item icons in the inventory* | ![Collection with the pixel-art icons](media/screenshots/v0.29.0/10_collection_pixel_icons.jpg)<br>*Collection with the pixel-art icons* |
+| ![New FPS counter option](media/screenshots/v0.29.0/11_settings_fps_counter.jpg)<br>*New FPS counter option* | ![Steady, flicker-free ground in the Ruined City](media/screenshots/v0.29.0/12_steady_ground_ruined_city.jpg)<br>*Steady, flicker-free ground in the Ruined City* |
+| ![Pilot select with the new abilities](media/screenshots/v0.29.0/13_pilot_select.jpg)<br>*Pilot select with the new abilities* |   |
 
 ## Controls
 
@@ -46,7 +49,7 @@ by holding **[Interact]** beside them.
 | WASD | Move |
 | Space | Jump / hold to jetpack-hover |
 | Ctrl | Sprint (Tumbler: roll into a ball) |
-| LMB / RMB | Primary weapon (Lancer: hold to charge) / piercing shot |
+| LMB / RMB | Primary weapon (Lancer: hold to charge) / alt shot: Pierce (Vanguard), Tag Bolt (Lancer), Slug Round (Bulwark), Ricochet Orb (Tumbler) |
 | R | Grenade / missile pod / bubble shield (depends on the mech) |
 | Shift | Dash |
 | Q | Ultimate |
