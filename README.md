@@ -4,7 +4,7 @@
 
 **Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.27.0**
+Latest version: **v0.28.0**
 
 ## Download
 
@@ -31,11 +31,13 @@ by holding **[Interact]** beside them.
 
 | | |
 |---|---|
-| ![Title screen](media/screenshots/v0.27.0/01_title.jpg)<br>*Title screen* | ![Main menu: your pilot name on the pilot record](media/screenshots/v0.27.0/02_main_menu.jpg)<br>*Main menu: your pilot name on the pilot record* |
-| ![Hosting: a join code to copy and share - no IP needed](media/screenshots/v0.27.0/03_coop_join_code.jpg)<br>*Hosting: a join code to copy and share - no IP needed* | ![Joined with the code: the squad by name](media/screenshots/v0.27.0/04_coop_joined_by_code.jpg)<br>*Joined with the code: the squad by name* |
-| ![Settings: set your pilot name](media/screenshots/v0.27.0/05_settings_pilot_name.jpg)<br>*Settings: set your pilot name* | ![Co-op: teammates tagged with their pilot names](media/screenshots/v0.27.0/06_coop_named_squad.jpg)<br>*Co-op: teammates tagged with their pilot names* |
-| ![Co-op: reviving a teammate during a guardian fight](media/screenshots/v0.27.0/07_coop_hydra_revive.jpg)<br>*Co-op: reviving a teammate during a guardian fight* | ![Co-op: downed, waiting for a revive](media/screenshots/v0.27.0/08_coop_downed.jpg)<br>*Co-op: downed, waiting for a revive* |
-| ![Co-op: the squad in a fight](media/screenshots/v0.27.0/09_coop_squad_fight.jpg)<br>*Co-op: the squad in a fight* | ![Pilot select](media/screenshots/v0.27.0/10_pilot_select.jpg)<br>*Pilot select* |
+| ![Title screen](media/screenshots/v0.28.0/01_title.jpg)<br>*Title screen* | ![Main menu](media/screenshots/v0.28.0/02_main_menu.jpg)<br>*Main menu* |
+| ![Drop pod touchdown: fireball and dust](media/screenshots/v0.28.0/03_drop_pod_landing.jpg)<br>*Drop pod touchdown: fireball and dust* | ![The pod opens around the mech](media/screenshots/v0.28.0/04_drop_pod_open.jpg)<br>*The pod opens around the mech* |
+| ![New Tumbler model, full-auto blasters](media/screenshots/v0.28.0/05_tumbler_full_auto.jpg)<br>*New Tumbler model, full-auto blasters* | ![Tumbler rolling sideways](media/screenshots/v0.28.0/06_tumbler_roll.jpg)<br>*Tumbler rolling sideways* |
+| ![The up-armoured Bulwark](media/screenshots/v0.28.0/07_bulwark_up_armoured.jpg)<br>*The up-armoured Bulwark* | ![Lancer in the Neon District](media/screenshots/v0.28.0/08_lancer_neon_district.jpg)<br>*Lancer in the Neon District* |
+| ![Chests are now industrial cargo cases](media/screenshots/v0.28.0/09_cargo_case_chests.jpg)<br>*Chests are now industrial cargo cases* | ![Items drop as 3D models](media/screenshots/v0.28.0/10_items_3d_drops.jpg)<br>*Items drop as 3D models* |
+| ![The Gamble Terminal, an old CRT computer](media/screenshots/v0.28.0/11_gamble_terminal.jpg)<br>*The Gamble Terminal, an old CRT computer* | ![The Duneworm breaching out of the sand](media/screenshots/v0.28.0/12_duneworm_breach.jpg)<br>*The Duneworm breaching out of the sand* |
+| ![Item icons rendered from the 3D models](media/screenshots/v0.28.0/13_item_icons.jpg)<br>*Item icons rendered from the 3D models* | ![Collection: items as turning 3D models](media/screenshots/v0.28.0/14_collection_3d_item.jpg)<br>*Collection: items as turning 3D models* |
 
 ## Controls
 
