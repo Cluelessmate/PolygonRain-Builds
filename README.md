@@ -4,7 +4,7 @@
 
 **Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.29.0**
+Latest version: **v0.29.1**
 
 ## Download
 
@@ -27,20 +27,17 @@ the CO-OP page or in Settings; your squad sees it. Everyone needs
 the same version. Hostiles and guardians scale with the squad, loot stays personal, and downed pilots are revived
 by holding **[Interact]** beside them.
 
-**Steam:** with Steam running, the host can press *INVITE STEAM FRIENDS*; friends who accept join automatically.
+**Steam:** with Steam running, sessions go through Steam - join codes work behind any router with no port forwarding, and the host can press *INVITE STEAM FRIENDS*.
 Achievements unlock on Steam as you earn them.
 
 ## Screenshots
 
 | | |
 |---|---|
-| ![Title screen](media/screenshots/v0.29.0/01_title.jpg)<br>*Title screen* | ![Main menu with the v0.29 notes](media/screenshots/v0.29.0/02_main_menu.jpg)<br>*Main menu with the v0.29 notes* |
-| ![New shotgun Bulwark in olive drab](media/screenshots/v0.29.0/03_bulwark_olive_shotgun.jpg)<br>*New shotgun Bulwark in olive drab* | ![Bulwark Slug Round staggering a pack](media/screenshots/v0.29.0/04_bulwark_slug_round.jpg)<br>*Bulwark Slug Round staggering a pack* |
-| ![Lancer Arc Mine discharging chain lightning](media/screenshots/v0.29.0/05_lancer_arc_mine.jpg)<br>*Lancer Arc Mine discharging chain lightning* | ![Lancer Tag Bolt marking a target](media/screenshots/v0.29.0/06_lancer_tag_bolt.jpg)<br>*Lancer Tag Bolt marking a target* |
-| ![Tumbler Ricochet Orb bouncing between enemies](media/screenshots/v0.29.0/07_tumbler_ricochet_orb.jpg)<br>*Tumbler Ricochet Orb bouncing between enemies* | ![The drop pod top is blown off on impact](media/screenshots/v0.29.0/08_drop_pod_top_blown_off.jpg)<br>*The drop pod top is blown off on impact* |
-| ![Pixel-art item icons in the inventory](media/screenshots/v0.29.0/09_pixel_art_item_icons.jpg)<br>*Pixel-art item icons in the inventory* | ![Collection with the pixel-art icons](media/screenshots/v0.29.0/10_collection_pixel_icons.jpg)<br>*Collection with the pixel-art icons* |
-| ![New FPS counter option](media/screenshots/v0.29.0/11_settings_fps_counter.jpg)<br>*New FPS counter option* | ![Steady, flicker-free ground in the Ruined City](media/screenshots/v0.29.0/12_steady_ground_ruined_city.jpg)<br>*Steady, flicker-free ground in the Ruined City* |
-| ![Pilot select with the new abilities](media/screenshots/v0.29.0/13_pilot_select.jpg)<br>*Pilot select with the new abilities* |   |
+| ![Title screen](media/screenshots/v0.29.1/01_title.jpg)<br>*Title screen* | ![Main menu with the v0.29.1 notes](media/screenshots/v0.29.1/02_main_menu.jpg)<br>*Main menu with the v0.29.1 notes* |
+| ![Hosting through Steam - the join code is the lobby, no port forwarding](media/screenshots/v0.29.1/03_coop_steam_join_code.jpg)<br>*Hosting through Steam - the join code is the lobby, no port forwarding* | ![Pilot select](media/screenshots/v0.29.1/04_pilot_select.jpg)<br>*Pilot select* |
+| ![Vanguard in the Ruined City](media/screenshots/v0.29.1/05_vanguard_ruined_city.jpg)<br>*Vanguard in the Ruined City* | ![Lancer in the Neon District](media/screenshots/v0.29.1/06_lancer_neon_district.jpg)<br>*Lancer in the Neon District* |
+| ![Bulwark in the Rust Foundry](media/screenshots/v0.29.1/07_bulwark_rust_foundry.jpg)<br>*Bulwark in the Rust Foundry* | ![Tumbler on the Glass Flats](media/screenshots/v0.29.1/08_tumbler_glass_flats.jpg)<br>*Tumbler on the Glass Flats* |
 
 ## Controls
 
