@@ -2,9 +2,9 @@
 
 # Polygon Rain - Public Builds
 
-**Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
+**Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, climb cliffs and plateaus on ten stages - one of them underground - stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.30.0**
+Latest version: **v0.31.0**
 
 ## Download
 
@@ -37,14 +37,15 @@ Achievements unlock on Steam as you earn them.
 
 | | |
 |---|---|
-| ![Title screen](media/screenshots/v0.30.0/01_title.jpg)<br>*Title screen* | ![Main menu with the v0.30 notes](media/screenshots/v0.30.0/02_main_menu.jpg)<br>*Main menu with the v0.30 notes* |
-| ![Co-op lobby with two AI bots](media/screenshots/v0.30.0/03_coop_lobby_bots.jpg)<br>*Co-op lobby with two AI bots* | ![Teammate tags at any range - off-screen pilots pin to the edge](media/screenshots/v0.30.0/04_teammate_tags.jpg)<br>*Teammate tags at any range - off-screen pilots pin to the edge* |
-| ![Downed: watching a bot fight on, no camera shake](media/screenshots/v0.30.0/05_spectate_while_downed.jpg)<br>*Downed: watching a bot fight on, no camera shake* | ![Rust Foundry: sprite smoke and the new grade](media/screenshots/v0.30.0/06_vanguard_rust_foundry.jpg)<br>*Rust Foundry: sprite smoke and the new grade* |
-| ![Neon District skyline behind a Lancer fight](media/screenshots/v0.30.0/07_lancer_neon_skyline.jpg)<br>*Neon District skyline behind a Lancer fight* | ![Red Canyon mesas on the horizon](media/screenshots/v0.30.0/08_bulwark_red_canyon.jpg)<br>*Red Canyon mesas on the horizon* |
-| ![Frozen Outpost with sprite debris](media/screenshots/v0.30.0/09_tumbler_frozen_outpost.jpg)<br>*Frozen Outpost with sprite debris* | ![Landmark: a crashed ship you can walk into](media/screenshots/v0.30.0/10_crashed_ship.jpg)<br>*Landmark: a crashed ship you can walk into* |
-| ![Landmark: a 6-8 storey tower with ramps to the top](media/screenshots/v0.30.0/11_climbable_tower.jpg)<br>*Landmark: a 6-8 storey tower with ramps to the top* | ![Landmark: a collapsed overpass in the Ruined City](media/screenshots/v0.30.0/12_collapsed_overpass.jpg)<br>*Landmark: a collapsed overpass in the Ruined City* |
-| ![Landmark: a barricaded container camp](media/screenshots/v0.30.0/13_container_camp.jpg)<br>*Landmark: a barricaded container camp* | ![Ground detail: craters, scorch marks and tracks](media/screenshots/v0.30.0/14_ground_craters.jpg)<br>*Ground detail: craters, scorch marks and tracks* |
-| ![Rim-lit mech with the PS1 texture pass](media/screenshots/v0.30.0/15_mech_rim_light.jpg)<br>*Rim-lit mech with the PS1 texture pass* | ![Smokestacks and plumes on the Rust Foundry skyline](media/screenshots/v0.30.0/16_rust_foundry_skyline.jpg)<br>*Smokestacks and plumes on the Rust Foundry skyline* |
+| ![Main menu with the v0.31 notes](media/screenshots/v0.31.0/01_main_menu.jpg)<br>*Main menu with the v0.31 notes* | ![Red Canyon: stacked mesas and layered cliffs](media/screenshots/v0.31.0/02_vanguard_red_canyon.jpg)<br>*Red Canyon: stacked mesas and layered cliffs* |
+| ![New stage: Vault Depths, a collapsed fallout shelter](media/screenshots/v0.31.0/03_lancer_vault_depths.jpg)<br>*New stage: Vault Depths, a collapsed fallout shelter* | ![Frozen Outpost glacier shelves](media/screenshots/v0.31.0/04_bulwark_frozen_shelves.jpg)<br>*Frozen Outpost glacier shelves* |
+| ![Dust Basin plateaus behind a Tumbler fight](media/screenshots/v0.31.0/05_tumbler_dust_basin.jpg)<br>*Dust Basin plateaus behind a Tumbler fight* | ![Rust Foundry: the strip-mine pit](media/screenshots/v0.31.0/06_vanguard_strip_mine.jpg)<br>*Rust Foundry: the strip-mine pit* |
+| ![Landmark: the fallen titan in the Dust Basin](media/screenshots/v0.31.0/07_fallen_titan.jpg)<br>*Landmark: the fallen titan in the Dust Basin* | ![Landmark: the excavator's boom walkway into the pit](media/screenshots/v0.31.0/08_excavator.jpg)<br>*Landmark: the excavator's boom walkway into the pit* |
+| ![Landmark: a cooling tower in the Ashen Wastes lava lake](media/screenshots/v0.31.0/09_reactor_island.jpg)<br>*Landmark: a cooling tower in the Ashen Wastes lava lake* | ![Landmark: an icebreaker frozen into the glacier](media/screenshots/v0.31.0/10_icebreaker.jpg)<br>*Landmark: an icebreaker frozen into the glacier* |
+| ![Landmark: giant mushrooms in the Fallout Marsh](media/screenshots/v0.31.0/11_fungal_colossi.jpg)<br>*Landmark: giant mushrooms in the Fallout Marsh* | ![Landmark: the broken dam across a Red Canyon gorge](media/screenshots/v0.31.0/12_broken_dam.jpg)<br>*Landmark: the broken dam across a Red Canyon gorge* |
+| ![Landmark: a fallen skyscraper you can run up](media/screenshots/v0.31.0/13_toppled_tower.jpg)<br>*Landmark: a fallen skyscraper you can run up* | ![Landmark: the Neon District deck stack](media/screenshots/v0.31.0/14_arcology_stack.jpg)<br>*Landmark: the Neon District deck stack* |
+| ![Landmark: the buried reactor in Vault Depths](media/screenshots/v0.31.0/15_vault_reactor.jpg)<br>*Landmark: the buried reactor in Vault Depths* | ![A cave cut into the cliff, framed in rock](media/screenshots/v0.31.0/16_cliff_cave.jpg)<br>*A cave cut into the cliff, framed in rock* |
+| ![Natural rock arches](media/screenshots/v0.31.0/17_rock_arch.jpg)<br>*Natural rock arches* | ![Layered rock on the cliffs](media/screenshots/v0.31.0/18_canyon_cliffs.jpg)<br>*Layered rock on the cliffs* |
 
 ## Controls
 
@@ -57,12 +58,12 @@ Achievements unlock on Steam as you earn them.
 | R | Grenade / missile pod / bubble shield (depends on the mech) |
 | Shift | Dash |
 | Q | Ultimate |
-| E | Interact |
+| E | Interact / take an item |
 | G / Middle mouse | Ping |
 | Tab | Inventory |
 | Esc | Pause / settings |
 
-Every key can be rebound in Settings > Controls, and controllers are supported. The drop pod intro can be skipped with jump or fire, or turned off in Settings > Controls > Interface.
+Every key can be rebound in Settings > Controls, and controllers are supported. The drop pod intro (not used underground) can be skipped with jump or fire, or turned off in Settings > Controls > Interface.
 
 ## About this repo
 
