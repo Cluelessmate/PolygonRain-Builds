@@ -4,7 +4,7 @@
 
 **Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.29.1**
+Latest version: **v0.30.0**
 
 ## Download
 
@@ -27,6 +27,9 @@ the CO-OP page or in Settings; your squad sees it. Everyone needs
 the same version. Hostiles and guardians scale with the squad, loot stays personal, and downed pilots are revived
 by holding **[Interact]** beside them.
 
+**Bots:** the host can fill empty seats with AI pilots (*+ ADD BOT*); they fight, revive you and replace anyone who
+drops out mid-run.
+
 **Steam:** with Steam running, sessions go through Steam - join codes work behind any router with no port forwarding, and the host can press *INVITE STEAM FRIENDS*.
 Achievements unlock on Steam as you earn them.
 
@@ -34,10 +37,14 @@ Achievements unlock on Steam as you earn them.
 
 | | |
 |---|---|
-| ![Title screen](media/screenshots/v0.29.1/01_title.jpg)<br>*Title screen* | ![Main menu with the v0.29.1 notes](media/screenshots/v0.29.1/02_main_menu.jpg)<br>*Main menu with the v0.29.1 notes* |
-| ![Hosting through Steam - the join code is the lobby, no port forwarding](media/screenshots/v0.29.1/03_coop_steam_join_code.jpg)<br>*Hosting through Steam - the join code is the lobby, no port forwarding* | ![Pilot select](media/screenshots/v0.29.1/04_pilot_select.jpg)<br>*Pilot select* |
-| ![Vanguard in the Ruined City](media/screenshots/v0.29.1/05_vanguard_ruined_city.jpg)<br>*Vanguard in the Ruined City* | ![Lancer in the Neon District](media/screenshots/v0.29.1/06_lancer_neon_district.jpg)<br>*Lancer in the Neon District* |
-| ![Bulwark in the Rust Foundry](media/screenshots/v0.29.1/07_bulwark_rust_foundry.jpg)<br>*Bulwark in the Rust Foundry* | ![Tumbler on the Glass Flats](media/screenshots/v0.29.1/08_tumbler_glass_flats.jpg)<br>*Tumbler on the Glass Flats* |
+| ![Title screen](media/screenshots/v0.30.0/01_title.jpg)<br>*Title screen* | ![Main menu with the v0.30 notes](media/screenshots/v0.30.0/02_main_menu.jpg)<br>*Main menu with the v0.30 notes* |
+| ![Co-op lobby with two AI bots](media/screenshots/v0.30.0/03_coop_lobby_bots.jpg)<br>*Co-op lobby with two AI bots* | ![Teammate tags at any range - off-screen pilots pin to the edge](media/screenshots/v0.30.0/04_teammate_tags.jpg)<br>*Teammate tags at any range - off-screen pilots pin to the edge* |
+| ![Downed: watching a bot fight on, no camera shake](media/screenshots/v0.30.0/05_spectate_while_downed.jpg)<br>*Downed: watching a bot fight on, no camera shake* | ![Rust Foundry: sprite smoke and the new grade](media/screenshots/v0.30.0/06_vanguard_rust_foundry.jpg)<br>*Rust Foundry: sprite smoke and the new grade* |
+| ![Neon District skyline behind a Lancer fight](media/screenshots/v0.30.0/07_lancer_neon_skyline.jpg)<br>*Neon District skyline behind a Lancer fight* | ![Red Canyon mesas on the horizon](media/screenshots/v0.30.0/08_bulwark_red_canyon.jpg)<br>*Red Canyon mesas on the horizon* |
+| ![Frozen Outpost with sprite debris](media/screenshots/v0.30.0/09_tumbler_frozen_outpost.jpg)<br>*Frozen Outpost with sprite debris* | ![Landmark: a crashed ship you can walk into](media/screenshots/v0.30.0/10_crashed_ship.jpg)<br>*Landmark: a crashed ship you can walk into* |
+| ![Landmark: a 6-8 storey tower with ramps to the top](media/screenshots/v0.30.0/11_climbable_tower.jpg)<br>*Landmark: a 6-8 storey tower with ramps to the top* | ![Landmark: a collapsed overpass in the Ruined City](media/screenshots/v0.30.0/12_collapsed_overpass.jpg)<br>*Landmark: a collapsed overpass in the Ruined City* |
+| ![Landmark: a barricaded container camp](media/screenshots/v0.30.0/13_container_camp.jpg)<br>*Landmark: a barricaded container camp* | ![Ground detail: craters, scorch marks and tracks](media/screenshots/v0.30.0/14_ground_craters.jpg)<br>*Ground detail: craters, scorch marks and tracks* |
+| ![Rim-lit mech with the PS1 texture pass](media/screenshots/v0.30.0/15_mech_rim_light.jpg)<br>*Rim-lit mech with the PS1 texture pass* | ![Smokestacks and plumes on the Rust Foundry skyline](media/screenshots/v0.30.0/16_rust_foundry_skyline.jpg)<br>*Smokestacks and plumes on the Rust Foundry skyline* |
 
 ## Controls
 
