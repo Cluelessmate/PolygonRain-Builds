@@ -4,7 +4,7 @@
 
 **Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, in the spirit of *Risk of Rain 2* with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, climb cliffs and plateaus on ten stages - one of them underground - stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.32.0**
+Latest version: **v0.33.0**
 
 ## Download
 
@@ -21,7 +21,7 @@ If Windows SmartScreen warns about an unknown publisher, click **More info > Run
 
 Single player first, with optional online co-op. On the main menu pick **CO-OP**: one pilot presses *HOST GAME*
 (default UDP port **24565**) and gets a **join code** (like `61FC-R310`) - press *COPY* and send it to your squad;
-they paste it and press *JOIN*. No IP addresses to share. Players on the same network can use the faster
+they paste it, press *JOIN* and then *READY UP*. No IP addresses to share. Players on the same network can use the faster
 **LAN code**. Over the internet the host may need to forward UDP 24565 on their router. Set your **pilot name** on
 the CO-OP page or in Settings; your squad sees it. Everyone needs
 the same version. Hostiles and guardians scale with the squad, loot stays personal, and downed pilots are revived
@@ -37,12 +37,11 @@ Achievements unlock on Steam as you earn them.
 
 | | |
 |---|---|
-| ![The new Rail main menu](media/screenshots/v0.32.0/01_main_menu.jpg)<br>*The new Rail main menu* | ![Frame select: the mech on its pad over the world](media/screenshots/v0.32.0/02_frame_select.jpg)<br>*Frame select: the mech on its pad over the world* |
-| ![The Hangar (was the Collection)](media/screenshots/v0.32.0/03_hangar.jpg)<br>*The Hangar (was the Collection)* | ![Loading screen over the stage vista](media/screenshots/v0.32.0/04_loading_screen.jpg)<br>*Loading screen over the stage vista* |
-| ![New stage: Rotwood Jungle](media/screenshots/v0.32.0/05_rootwood_jungle.jpg)<br>*New stage: Rotwood Jungle* | ![The Rootwood, walkable to the crown](media/screenshots/v0.32.0/06_rootwood_canopy.jpg)<br>*The Rootwood, walkable to the crown* |
-| ![Crashed ship: the freighter broken in three](media/screenshots/v0.32.0/07_crashed_lifter.jpg)<br>*Crashed ship: the freighter broken in three* | ![Set piece: the sand-crawler hulk](media/screenshots/v0.32.0/08_sand_crawler.jpg)<br>*Set piece: the sand-crawler hulk* |
-| ![Set piece: a cracked cooling tower in the Rust Foundry](media/screenshots/v0.32.0/09_cooling_tower.jpg)<br>*Set piece: a cracked cooling tower in the Rust Foundry* | ![Set piece: a barge run aground in the Fallout Marsh](media/screenshots/v0.32.0/10_marsh_barge.jpg)<br>*Set piece: a barge run aground in the Fallout Marsh* |
-| ![The Rust Belt HUD](media/screenshots/v0.32.0/11_hud.jpg)<br>*The Rust Belt HUD* | ![Records, with the full pilot record](media/screenshots/v0.32.0/12_records.jpg)<br>*Records, with the full pilot record* |
+| ![Title screen](media/screenshots/v0.33.0/01_title.jpg)<br>*Title screen* | ![Studio card on start-up](media/screenshots/v0.33.0/02_studio_card.jpg)<br>*Studio card on start-up* |
+| ![Attract mode: the title fades into a demo run](media/screenshots/v0.33.0/03_attract_demo.jpg)<br>*Attract mode: the title fades into a demo run* | ![Leviathan phase 2: the titan rises out of the dome](media/screenshots/v0.33.0/04_leviathan_titan.jpg)<br>*Leviathan phase 2: the titan rises out of the dome* |
+| ![Leviathan phase 3: titan and dome fight separately](media/screenshots/v0.33.0/05_leviathan_split.jpg)<br>*Leviathan phase 3: titan and dome fight separately* | ![Rotwood Jungle: the overgrown temple](media/screenshots/v0.33.0/06_jungle_temple.jpg)<br>*Rotwood Jungle: the overgrown temple* |
+| ![Item card on a smoked backing](media/screenshots/v0.33.0/07_item_card.jpg)<br>*Item card on a smoked backing* | ![Co-op ready-up and join notifications](media/screenshots/v0.33.0/08_coop_ready_up.jpg)<br>*Co-op ready-up and join notifications* |
+| ![Dev menu balance tools: per-stage curve](media/screenshots/v0.33.0/09_balance_tools.jpg)<br>*Dev menu balance tools: per-stage curve* | ![Inventory with the new damage items](media/screenshots/v0.33.0/10_inventory.jpg)<br>*Inventory with the new damage items* |
 
 ## Controls
 
