@@ -37,11 +37,9 @@ Achievements unlock on Steam as you earn them.
 
 | | |
 |---|---|
-| ![Title screen](media/screenshots/v0.33.0/01_title.jpg)<br>*Title screen* | ![Studio card on start-up](media/screenshots/v0.33.0/02_studio_card.jpg)<br>*Studio card on start-up* |
-| ![Attract mode: the title fades into a demo run](media/screenshots/v0.33.0/03_attract_demo.jpg)<br>*Attract mode: the title fades into a demo run* | ![Leviathan phase 2: the titan rises out of the dome](media/screenshots/v0.33.0/04_leviathan_titan.jpg)<br>*Leviathan phase 2: the titan rises out of the dome* |
-| ![Leviathan phase 3: titan and dome fight separately](media/screenshots/v0.33.0/05_leviathan_split.jpg)<br>*Leviathan phase 3: titan and dome fight separately* | ![Rotwood Jungle: the overgrown temple](media/screenshots/v0.33.0/06_jungle_temple.jpg)<br>*Rotwood Jungle: the overgrown temple* |
-| ![Item card on a smoked backing](media/screenshots/v0.33.0/07_item_card.jpg)<br>*Item card on a smoked backing* | ![Co-op ready-up and join notifications](media/screenshots/v0.33.0/08_coop_ready_up.jpg)<br>*Co-op ready-up and join notifications* |
-| ![Dev menu balance tools: per-stage curve](media/screenshots/v0.33.0/09_balance_tools.jpg)<br>*Dev menu balance tools: per-stage curve* | ![Inventory with the new damage items](media/screenshots/v0.33.0/10_inventory.jpg)<br>*Inventory with the new damage items* |
+| ![Title screen: the dripping Downpour wordmark](media/screenshots/v0.34.0/01_title.jpg)<br>*Title screen: the dripping Downpour wordmark* | ![Main menu: the Downpour rail](media/screenshots/v0.34.0/02_main_menu.jpg)<br>*Main menu: the Downpour rail* |
+| ![Settings, reorganised: the new Interface tab](media/screenshots/v0.34.0/03_settings.jpg)<br>*Settings, reorganised: the new Interface tab* | ![Co-op lobby: every pilot's frame, paint and module](media/screenshots/v0.34.0/04_coop_lobby.jpg)<br>*Co-op lobby: every pilot's frame, paint and module* |
+| ![Pause menu in the Downpour style](media/screenshots/v0.34.0/05_pause_menu.jpg)<br>*Pause menu in the Downpour style* | ![Bulwark Ground Slam into a pack](media/screenshots/v0.34.0/06_bulwark_slam.jpg)<br>*Bulwark Ground Slam into a pack* |
 
 ## Controls
 
