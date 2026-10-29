@@ -4,7 +4,7 @@
 
 **Polygon Rain** is a PS1-style 3D roguelite shooter set in a post-apocalyptic wasteland, with Armored Core-era graphics. Play solo or with up to three friends in online co-op. Pick one of four mechs, drop in by pod, climb cliffs and plateaus on ten stages - one of them underground - stack items, beat each stage's guardian and push on while the threat keeps rising, all the way to the Leviathan at Zero Point.
 
-Latest version: **v0.43.0**
+Latest version: **v0.44.0**
 
 ## Download
 
